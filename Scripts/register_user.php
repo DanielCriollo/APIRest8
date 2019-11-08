@@ -19,6 +19,4 @@
     }else{
         die("The error is: ".$conn->error);
     }
-
-
     ?>
